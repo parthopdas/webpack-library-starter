@@ -1,5 +1,5 @@
 {
-  "name": "webpack-library-starter",
+  "name": "@parthopdas/webpack-library-starter",
   "version": "2.1.1",
   "description": "Produce universal library with webpack and es6",
   "main": "lib/index.js",
