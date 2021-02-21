@@ -2,7 +2,8 @@
   "name": "webpack-library-starter",
   "version": "2.1.1",
   "description": "Produce universal library with webpack and es6",
-  "main": "lib/webpack-library-starter.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "dev": "webpack --progress --watch --env dev",
     "dev-amd": "webpack --progress --watch --env dev --amd",
